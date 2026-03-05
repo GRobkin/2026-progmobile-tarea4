@@ -14,7 +14,7 @@ class MainApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Ejemplo"),
+          title: Text("Input Ejemplo"),
           backgroundColor: Colors.green,
           foregroundColor: Colors.white,
           centerTitle: true,
